@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Venakatamanas Raghupatruni</h1>
 <h3 align="center">Data Scientist with 4+ years of experience designing and deploying machine learning and AI solutions that drive measurable business impact. Skilled in end-to-end ML pipelines, cloud deployment (AWS, GCP, Azure), advanced statistical analysis, and data visualization. Passionate about solving real-world problems through predictive modeling, deep learning, NLP, and time-series forecasting.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manas470&label=Profile%20views&color=0e75b6&style=flat" alt="manas470" /> </p>
+
 - 🔭 I’m currently working on ****forecasting, churn prediction, and NLP** at **Intuit**.**
 
 - 🌱 I’m currently learning ****Advanced Generative AI, Vertex AI (GCP), and Snowflake for ML workflows**.**
