@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venakatamanas Raghupatruni</h1>
-<h3 align="center">Data Scientist with 4+ years of experience designing and deploying machine learning and AI solutions that drive measurable business impact. Skilled in **end-to-end ML pipelines, cloud deployment (AWS, GCP, Azure), advanced statistical analysis, and data visualization**. Passionate about solving real-world problems through **predictive modeling, deep learning, NLP, and time-series forecasting**.</h3>
+<h3 align="center">Data Scientist with 4+ years of experience designing and deploying machine learning and AI solutions that drive measurable business impact. Skilled in end-to-end ML pipelines, cloud deployment (AWS, GCP, Azure), advanced statistical analysis, and data visualization. Passionate about solving real-world problems through predictive modeling, deep learning, NLP, and time-series forecasting.</h3>
 
 - 🔭 I’m currently working on ****forecasting, churn prediction, and NLP** at **Intuit**.**
 
