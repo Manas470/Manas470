@@ -15,7 +15,7 @@
 
 - 💬 Ask me about ****Machine Learning, NLP, Time-Series Forecasting, Data Visualization, MLOps**.**
 
-- 📫 How to reach me **raghupatrunimanas@gmail.com - 🔗 [LinkedIn](https://www.linkedin.com/in/venkatamanas/)**
+- 📫 How to reach me **raghupatrunivenkatamanas@gmail.com - 🔗 [LinkedIn](https://www.linkedin.com/in/venkatamanas/)**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JtaSwL0OAwsA9q8F4JeHSn3qgwTh-3-K/view?usp=drive_link](https://drive.google.com/file/d/1JtaSwL0OAwsA9q8F4JeHSn3qgwTh-3-K/view?usp=drive_link)
 
