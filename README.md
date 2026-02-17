@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas470&label=Profile%20views&color=0e75b6&style=flat" alt="manas470" /> </p>
 
-- 🔭 I’m currently working on ****forecasting, churn prediction, and NLP** at **Intuit**.**
+- 🔭 I’m currently working on ****forecasting, churn prediction, and NLP** at **Crunch Fitness**.**
 
 - 🌱 I’m currently learning ****Advanced Generative AI, Vertex AI (GCP), and Snowflake for ML workflows**.**
 
